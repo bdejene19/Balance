@@ -3,7 +3,8 @@ export enum Text {
     SERVICES = 'Services',
     RATES = 'Massage Rates',
     HOURS = 'Clinic Hours and Location',
-    FAQs = 'FAQS'
+    FAQs = 'FAQS',
+    BOOK = 'Book Session'
 }
 
 export enum Colors {
