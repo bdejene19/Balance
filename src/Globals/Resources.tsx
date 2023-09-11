@@ -1,8 +1,8 @@
 export enum Text {
     HOME = 'Home',
     SERVICES = 'Services',
-    RATES = 'Massage Rates',
-    HOURS = 'Clinic Hours and Location',
+    RATES = 'Rates',
+    HOURS = 'Hours',
     FAQs = 'FAQS',
     BOOK = 'Book Session'
 }
